@@ -19,7 +19,7 @@ python3 prediction.py - Prints the estimated price of a car based on its mileage
   - https://ompramod.medium.com/mastering-gradient-descent-optimizing-neural-networks-with-precision-cbea71d236cf (check the end of the article to avoid a common mistake in the implementation)
   - https://medium.com/@lachlanmiller_52885/machine-learning-week-1-cost-function-gradient-descent-and-univariate-linear-regression-8f5fe69815fd
   - https://www.geeksforgeeks.org/python/univariate-linear-regression-in-python/
-- https://aayushmaan1306.medium.com/univariate-linear-regression-46ece0dfc4e7
+  - https://aayushmaan1306.medium.com/univariate-linear-regression-46ece0dfc4e7
 
 - Convergence/End of gradient loop:
   - https://stackoverflow.com/questions/36805834/what-determines-whether-my-python-gradient-descent-algorithm-converges
